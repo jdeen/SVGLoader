@@ -1,0 +1,27 @@
+{
+  "name": "jdeen.svgLoader",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jdeen/SVGLoader",
+  "authors": [
+    "Ziyan Junaideen <ziyan@jdeen.com>"
+  ],
+  "description": "SVG loader",
+  "main": "dist/svgLoader.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "SVG",
+    "JDeen",
+    "Page",
+    "load"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
