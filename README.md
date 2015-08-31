@@ -14,3 +14,7 @@ Bower installable SVGLoader by CodeDrops.
  * http://www.codrops.com
  */
 ````
+
+This is not a project by me but in the future if required, I can support. I am at the moment requiring
+SVGLoader to be included in a project through bower. I failed to fin the repo on Github and thus I am
+making one with the copied source code from another project.
