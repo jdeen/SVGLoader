@@ -7,6 +7,9 @@
   ],
   "description": "SVG loader",
   "main": "dist/svgLoader.js",
+  "dependencies": {
+    "classie": "^1.0.0"
+  },
   "moduleType": [
     "globals"
   ],
